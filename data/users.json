@@ -1,0 +1,22 @@
+[
+  {
+    "id": "???",
+    "login": "???",
+    "passwordHash": "476ee8664c66bd639f05b9f559881968:e8128f1786458225f311d5e44c01cceff9a7191ac39c75b703791d74b878ea1ff7a8c3443b5fa7303c9707c37312361d489b0e15898d70de8bd1ebd76db4b914",
+    "email": null,
+    "role": "o5",
+    "displayName": "???",
+    "createdAt": "2026-10-20T11:47:07.447Z",
+    "createdBy": "system"
+  },
+  {
+    "id": "1",
+    "login": "creator",
+    "passwordHash": "e9442f0e0dad549b14c7a6877b2e5ff9:d445f907ab3912d5aaacead338d26cd4455032e27842dd47efc7e9a53490a34a415775629359f1db8b2d8ef24a9d5decd3ef2cb16e44281e4c0da85f6dedd086",
+    "email": null,
+    "role": "creator",
+    "displayName": "Создатель",
+    "createdAt": "2026-10-20T11:47:07.493Z",
+    "createdBy": "system"
+  }
+]
